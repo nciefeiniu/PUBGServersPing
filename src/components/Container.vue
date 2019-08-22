@@ -204,37 +204,37 @@ export default class Container extends Vue {
   // TODO: sorting
   public readonly tableHeaders: ITableHeader[] = [
     {
-      text: 'Server',
+      text: 'Server(服务器)',
       sortable: false, // true
       align: 'left',
       value: 'name',
     },
     {
-      text: 'Latency',
+      text: 'Latency(延迟)',
       sortable: false,
       align: 'left',
       value: 'latency',
     },
     {
-      text: 'Min',
+      text: 'Min(最小)',
       sortable: false, // true
       align: 'right',
       value: 'min',
     },
     {
-      text: 'Max',
+      text: 'Max(最大)',
       sortable: false, // true
       align: 'right',
       value: 'max',
     },
     {
-      text: 'Average',
+      text: 'Average(平均)',
       sortable: false, // true
       align: 'right',
       value: 'average',
     },
     {
-      text: 'Actions',
+      text: 'Actions(操作)',
       align: 'right',
       sortable: false,
       value: 'actions',
