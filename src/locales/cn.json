@@ -1,9 +1,13 @@
 {
   "locale-name": "中文",
-  "locale-author": "FastChen",
-  "ping-button": "测试",
+  "locale-author": "nice肥牛",
+  "header-title": "绝地求生服务器延迟测试",
+  "public-message": "欢迎👏",
+  "ping-button": "开始测试",
   "about-button": "帮助",
   "clear-button": "清除所有",
   "locale-button": "语言",
-  "close-button": "关闭"
+  "close-button": "关闭",
+  "no-selected-servers": "你至少需要选择一个服务器！",
+  "something-is-broken": "出错了，请稍后再试。"
 }

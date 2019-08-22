@@ -17,20 +17,6 @@
     </v-slide-y-transition>
 
     <v-spacer></v-spacer>
-    <v-toolbar-items class="hidden-xs-only">
-      <span class="prefix white--text">
-        With <v-icon>favorite</v-icon> by
-      </span>
-
-      <v-chip small disabled color="rgba(0, 0, 0, 0.1)">
-        <v-avatar>
-          <img :src="author.avatar" alt=":)">
-        </v-avatar>
-        <a class="white--text">
-          {{ author.nickname }}
-        </a>
-      </v-chip>
-    </v-toolbar-items>
   </v-toolbar>
 </template>
 

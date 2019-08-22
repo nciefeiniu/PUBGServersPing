@@ -3,7 +3,7 @@
     <Preloader />
     <Background />
     <Header version="4" />
-    <Container lang="en" />
+    <Container lang="zh" />
   </div>
 </template>
 
